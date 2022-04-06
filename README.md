@@ -1,8 +1,13 @@
 ## Welcome
 
-You can use the [editor on GitHub](https://github.com/chitransh-atre/chitransh-atre.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+About Me:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am working as a researcher. I like to work upon new innovative ideas and implement them. Beside that I love to do coding, it keeps me refresh. 
+But now, I also love to do real experiments kind of stuffs. 
+
+I am a CFD guy working in OpenFOAM, Ansys, bla..bla.. and Blender(especailly fluid animation).
+
+
 
 ### Markdown
 
