@@ -34,6 +34,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 Connect me via my email or social networks or whatsapp number:
-Email: 1.) chitransh.atre@gmail.com
-LinkedIn: 2.) https://www.linkedin.com/in/chitransh-atre/
-Whatsapp: 3.) +91-7718718558
+1.) Email: chitransh.atre@gmail.com
+
+2.) LinkedIn: https://www.linkedin.com/in/chitransh-atre/
+
+3.) Whatsapp: +91-7718718558
